@@ -18,5 +18,7 @@ export CGO_LDFLAGS=-L$DB2HOME/lib
     sh _shllscript/init.sh
     echo $DB2HOME
 ```
-# DB2 is complicated than other SQL databases.
-# Because golang hasn't driver so you need to set driver.
+DB2 is complicated than other SQL databases.
+======================
+Because golang hasn't driver so you need to set driver.
+======================
