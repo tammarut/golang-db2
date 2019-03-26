@@ -1,6 +1,3 @@
-module github.com/tammarut/go-sql
+module github.com/tammarut/golang-db2
 
-require (
-	github.com/asifjalil/cli v1.2.4 // indirect
-	github.com/ibmdb/go_ibm_db v0.0.0-20190212130120-08e45ed172bf
-)
+require github.com/asifjalil/cli v1.2.4
